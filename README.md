@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @codeurali
+- 👋 Hi, I’m Ali
 - 👀 I’m interested in web and app development 
-- 🌱 I’m currently learning Reactjs, Typscript, Nodejs, Iconic, Docker, Ansible
+- 🌱 I’m currently learning Angular Typscript, Nodejs, C#, Docker, Ansible
 - 📫 How to reach me : tagazali@gmail.com
 
 <!---
