@@ -13,15 +13,15 @@ jobs:
     steps:
       - checkout
       - run:
-        name: "test du code"
-        command: |
-          ls -l 
-          wc -l fichier.exe
+          name: test du code
+          command: |
+            ls -l 
+            wc -l fichier.exe
             
 workflows:
   checkout-test-workflow:
     jobs:
       - extraction
       - test:
-        requires:
-          - extraction
+          requires:
+            - extraction
