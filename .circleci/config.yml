@@ -7,6 +7,14 @@ jobs:
     steps:
       - checkout
       
+  compilation:
+    docker:
+      - image: cimg/base:stable
+    steps:
+      - run:
+          name: compilation
+          command: echo "compilation du code"
+      
   test:
     docker:
       - image: cimg/base:stable
@@ -22,6 +30,9 @@ workflows:
   checkout-test-workflow:
     jobs:
       - extraction
-      - test:
+      - compilation:
           requires:
             - extraction
+      - test:
+          requires:
+            - compilation
