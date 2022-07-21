@@ -10,12 +10,10 @@ jobs:
     docker:
       - image: cimg/base:stable
       steps:
-        -checkout
+        - checkout
         -run:
-          name: ""
+          name: "test du code"
           command: |
-            echo "Vérifier la présence du code github"
-            pwd
             ls -l 
             wc -l fichier.exe
             
