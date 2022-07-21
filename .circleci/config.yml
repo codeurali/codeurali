@@ -1,18 +1,26 @@
 version: 2.1
 jobs:
-  test-checkout:
+  checkout:
     docker:
       - image: cimg/base:stable
     steps:
       - checkout
-      - run:
-          name: "test checkout"
+      
+  test:
+    docker:
+      - image: cimg/base:stable
+      steps:
+        -checkout
+        -run:
+          name: ""
           command: |
             echo "Vérifier la présence du code github"
             pwd
             ls -l 
+            wc -l fichier.exe
             
 workflows:
-  test-checkout-workflow:
+  checkout-test-workflow:
     jobs:
-      - test-checkout
+      - checkout
+      - test
