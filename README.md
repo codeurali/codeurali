@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali
 - 👀 I’m interested in web and app development 
-- 🌱 I’m currently learning Angular Typscript, Nodejs, C#, Docker, Ansible
+- 🌱 I’m currently learning Typscript, Nodejs, C#
 - 📫 How to reach me : tagazali@gmail.com
 
 <!---
