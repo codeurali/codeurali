@@ -22,6 +22,6 @@ workflows:
   checkout-test-workflow:
     jobs:
       - extraction
-      - test
+      - test:
         requires:
           - extraction
