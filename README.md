@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali
 - 👀 I’m interested in web and app development 
-- 🌱 I’m currently learning React, Typscript, Nodejs, WebAssembly, C#, Design Patern, Docker, Ansible
+- 🌱 I’m currently learning React, Typscript, Nodejs, WebAssembly, C#
 - 📫 How to reach me : https://twitter.com/tgzali
 
 <!---
