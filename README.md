@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali
 - 👀 I’m interested in web and app development 
-- 🌱 I’m currently learning React, Typscript, Nodejs, WebAssembly, C#
+- 🌱 Mastering React, Typscript, Nodejs, WebAssembly, C#
 
 <!---
 codeurali/codeurali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
