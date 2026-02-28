@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Ali Taggaz (tagazali@gmail.com)
-- 👀 I’m interested in dev & stuff 
-- 🌱 Mastering in bug engineering 
+- 👀 I’m interested in software developpement, projet architecture, smart tools
