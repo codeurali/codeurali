@@ -1,6 +1,6 @@
 # Ali Taggaz
 
-I build systems that keep what you know.
+Delegate the mechanical tasks to agents. Keep the intelligence.
 
 Seven fields of work:
 
